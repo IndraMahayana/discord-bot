@@ -8,8 +8,13 @@
 
 #### 2. Create `config.json` file
 Create `config.json` file and paste this
+
 {
+
     "token": "your token",
+
     "clientId": "your bot id",
+
     "guildId": "your server id"
+    
 }
