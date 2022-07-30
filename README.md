@@ -10,7 +10,6 @@
 Create `config.json` file and paste this
 
     {
-    "token": "your token",
-    "clientId": "your bot id",
-    "guildId": "your server id"
+        "token": "your token",
+        "clientId": "your bot id",
     }
